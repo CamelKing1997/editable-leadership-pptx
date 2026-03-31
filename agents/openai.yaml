@@ -1,6 +1,6 @@
 interface:
-  display_name: "Editable Leadership PPTX"
-  short_description: "Editable leadership PPTX workflow"
+  display_name: "Editable Leadership PPTX | PPT Skill"
+  short_description: "Codex PPT skill and PowerPoint presentation workflow for editable .pptx decks"
   icon_small: "./assets/slides-small.svg"
   icon_large: "./assets/slides.png"
-  default_prompt: "Use $editable-leadership-pptx to build or revise a leadership progress deck as an editable 16:9 .pptx with repo-backed evidence, white-first premium restraint, screenshot QA, and infer-first intake that asks only for missing critical inputs."
+  default_prompt: "Use $editable-leadership-pptx as a Codex PPT skill to build or revise a PowerPoint or presentation deck as an editable 16:9 .pptx with repo-backed evidence, white-first premium restraint, screenshot QA, and infer-first intake that asks only for missing critical inputs."

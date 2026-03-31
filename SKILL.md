@@ -1,9 +1,9 @@
 ---
 name: editable-leadership-pptx
-description: Use when creating or revising a leadership or executive progress deck as an editable 16:9 `.pptx` with repo-backed evidence, minimal text, restrained white-first visuals, and screenshot-based layout QA.
+description: Use when creating or revising a PPT, PowerPoint, presentation deck, leadership deck, or executive progress deck as an editable 16:9 `.pptx` with repo-backed evidence, minimal text, restrained white-first visuals, and screenshot-based layout QA.
 ---
 
-# Editable Leadership PPTX
+# Editable Leadership PPTX | Codex PPT Skill
 
 ## Overview
 

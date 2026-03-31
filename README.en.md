@@ -1,33 +1,14 @@
-# editable-leadership-pptx
+# editable-leadership-pptx | Codex PPT Skill for Editable PowerPoint and Presentation Decks
 
 Community-maintained Codex PPT skill, PowerPoint skill, and presentation skill for creating or revising editable `16:9 .pptx`, PowerPoint decks, and presentation decks for executive and leadership reporting.
 
 中文说明: [README.md](./README.md)
-
-If you are searching for `ppt skill`, `PPT skill`, `PowerPoint skill`, `presentation skill`, `slides skill`, `editable pptx`, `PowerPoint deck`, `executive presentation`, or `leadership deck`, this repository is intentionally written to match those use cases.
 
 ## What This Repository Is
 
 `editable-leadership-pptx` is a specialized skill built for leadership-facing presentation workflows. It builds on top of the Codex `slides` skill workflow and packages the relevant helper utilities and review scripts into a self-contained repository.
 
 This repository is not an official OpenAI repository, not an official Codex release artifact, and should not be presented as endorsed or certified by OpenAI.
-
-## Search Keywords
-
-To improve discoverability for people searching GitHub or web search engines for PPT-related skills, this repository intentionally covers these phrases:
-
-- PPT skill
-- ppt skill
-- PowerPoint skill
-- presentation skill
-- slides skill
-- editable pptx
-- PowerPoint presentation generator
-- executive presentation
-- leadership deck
-- Codex skill for PPT
-- Codex PowerPoint skill
-- AI PPT workflow
 
 ## Relationship to the Codex `slides` Skill
 
@@ -101,3 +82,20 @@ This README intentionally avoids machine-specific paths, usernames, and private 
 - The names `Codex`, `OpenAI`, and `slides` are used descriptively only, to explain origin or compatibility, and do not imply affiliation, sponsorship, or endorsement
 
 If you plan to redistribute this repository or integrate it into an internal template system, run your own legal and open source compliance review.
+
+## Search Keywords
+
+If you are searching GitHub or web search engines for PPT-related skills, these keywords are included to improve discoverability:
+
+- PPT skill
+- ppt skill
+- PowerPoint skill
+- presentation skill
+- slides skill
+- editable pptx
+- PowerPoint presentation generator
+- executive presentation
+- leadership deck
+- Codex skill for PPT
+- Codex PowerPoint skill
+- AI PPT workflow

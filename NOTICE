@@ -1,0 +1,21 @@
+This repository is a community-maintained Codex skill project.
+
+It includes:
+
+- original repository content specific to the `editable-leadership-pptx` workflow
+- vendored and/or adapted helper code and review utilities derived from the Codex `slides` skill workflow
+
+Relevant bundled areas include:
+
+- `assets/pptxgenjs_helpers/`
+- `scripts/slides/`
+
+Some bundled source files retain upstream copyright notices, including
+`Copyright (c) OpenAI`. Those notices should be preserved in redistributed
+or modified copies where applicable.
+
+`LICENSE.txt` contains the Apache License 2.0 text included for applicable
+vendored resources in this repository.
+
+Use of the names `Codex`, `OpenAI`, and `slides` in this repository is
+descriptive only and does not imply affiliation, sponsorship, or endorsement.

@@ -1,0 +1,30 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node / JS dependencies
+node_modules/
+
+# Skill review artifacts
+*__deck-review/
+**/rendered/
+**/logs/
+**/tiles/
+**/montage.png
+**/summary.json
+
+# Temporary bootstrap or scratch work
+tmp/
+temp/
+.tmp/

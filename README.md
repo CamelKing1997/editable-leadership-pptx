@@ -1,8 +1,10 @@
 # editable-leadership-pptx
 
-面向中文用户的 Codex skill，用于生成或修订适合领导/业务汇报场景的可编辑 `16:9 .pptx`。
+一个面向中文用户的 Codex PPT skill、PowerPoint skill 和 presentation skill，用于生成或修订适合领导/业务汇报场景的可编辑 `16:9 .pptx`、PowerPoint 演示文稿和 presentation deck。
 
 English version: [README.en.md](./README.en.md)
+
+如果你在搜索 `ppt skill`、`PPT skill`、`PowerPoint skill`、`presentation skill`、`slides skill`、`editable pptx`、`PowerPoint deck`、`executive presentation` 或 `leadership deck`，这个仓库就是为这类场景设计的。
 
 ## 项目定位
 
@@ -13,6 +15,23 @@ English version: [README.en.md](./README.en.md)
 - 更适合项目复盘、进展汇报、模型评估和实验结果汇报的默认写法
 
 本仓库不是 OpenAI 官方仓库、官方 skill 发布物，也不代表 OpenAI 对本项目的背书、支持或认证。
+
+## 搜索关键词
+
+为了让更多在 GitHub 或搜索引擎中寻找 PPT 相关 skill 的用户找到这个项目，这里明确覆盖常见搜索词：
+
+- PPT skill
+- ppt skill
+- PowerPoint skill
+- presentation skill
+- slides skill
+- editable pptx
+- PowerPoint presentation generator
+- executive presentation
+- leadership deck
+- Codex skill for PPT
+- Codex PowerPoint skill
+- AI PPT workflow
 
 ## 与 Codex `slides` skill 的关系
 
@@ -32,6 +51,7 @@ English version: [README.en.md](./README.en.md)
 - 模型或实验结果复盘
 - 技术能力对业务结果的解释型页面
 - 将现有粗糙 deck 重构为可编辑、可复用、可审阅的 PPT
+- 需要生成 PowerPoint、PPT、presentation deck 或 editable pptx 的 Codex 工作流
 
 ## 核心能力
 

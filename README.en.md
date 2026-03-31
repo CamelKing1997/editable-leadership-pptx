@@ -1,14 +1,33 @@
 # editable-leadership-pptx
 
-Community-maintained Codex skill for creating or revising editable `16:9 .pptx` decks for executive and leadership reporting.
+Community-maintained Codex PPT skill, PowerPoint skill, and presentation skill for creating or revising editable `16:9 .pptx`, PowerPoint decks, and presentation decks for executive and leadership reporting.
 
 中文说明: [README.md](./README.md)
+
+If you are searching for `ppt skill`, `PPT skill`, `PowerPoint skill`, `presentation skill`, `slides skill`, `editable pptx`, `PowerPoint deck`, `executive presentation`, or `leadership deck`, this repository is intentionally written to match those use cases.
 
 ## What This Repository Is
 
 `editable-leadership-pptx` is a specialized skill built for leadership-facing presentation workflows. It builds on top of the Codex `slides` skill workflow and packages the relevant helper utilities and review scripts into a self-contained repository.
 
 This repository is not an official OpenAI repository, not an official Codex release artifact, and should not be presented as endorsed or certified by OpenAI.
+
+## Search Keywords
+
+To improve discoverability for people searching GitHub or web search engines for PPT-related skills, this repository intentionally covers these phrases:
+
+- PPT skill
+- ppt skill
+- PowerPoint skill
+- presentation skill
+- slides skill
+- editable pptx
+- PowerPoint presentation generator
+- executive presentation
+- leadership deck
+- Codex skill for PPT
+- Codex PowerPoint skill
+- AI PPT workflow
 
 ## Relationship to the Codex `slides` Skill
 
@@ -26,6 +45,7 @@ The goal of this repository is not to replace the original `slides` capability, 
 - Evidence-first deck authoring for project status, experiments, and evaluations
 - Screenshot-based QA instead of editor-only review
 - Local tooling for bootstrap, rendering, montage generation, overflow checks, and font checks
+- A Codex workflow for people who need a PPT skill, PowerPoint skill, or presentation skill that still outputs editable files
 
 ## Repository Layout
 
